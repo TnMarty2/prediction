@@ -1,10 +1,10 @@
-import pandas as pd
+# import pandas as pd
 
-# Load the dataset to inspect the column names
-uploaded_file = 'BBCA.JK.csv'  # Replace with the actual path to your CSV file
-df = pd.read_csv(uploaded_file)
-print(df.head())
-print(df.columns)
+# # Load the dataset to inspect the column names
+# uploaded_file = 'BBCA.JK.csv'  # Replace with the actual path to your CSV file
+# df = pd.read_csv(uploaded_file)
+# print(df.head())
+# print(df.columns)
 
 
 import streamlit as st
