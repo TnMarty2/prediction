@@ -1,3 +1,5 @@
+!pip install yfinance
+
 import streamlit as st
 from datetime import date, timedelta
 import yfinance as yf
